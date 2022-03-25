@@ -5,5 +5,5 @@
 layout: home
 ---
 
-![Brownie image](/image_assets/carrot_cupcake.png)
+![Home Image](/image_assets/carrot_cupcake.png)
 
