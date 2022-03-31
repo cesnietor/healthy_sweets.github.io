@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contacto
+permalink: /contacto/
 ---
 
 ### Haz tu pedido o pregúntanos tus dudas:
