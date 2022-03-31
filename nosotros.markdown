@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Nosotros
-permalink: /:path/nosotros/
 ---
 
 Ubicados en .... nos dedicamos ....

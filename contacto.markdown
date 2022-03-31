@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Contacto
-permalink: /:path/contacto/
 ---
 
 ### Haz tu pedido o pregúntanos tus dudas:
