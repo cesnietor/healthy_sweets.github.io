@@ -22,9 +22,9 @@ title: Healthy Sweets
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Postres saludables, deliciosos y con ingredientes de la mejor calidad a la puerta de tu casa.
-domain: "cesnietor.github.io/healthy_sweets.github.io"
-baseurl: "" # the subpath of your site
-url: "https://cesnietor.github.io/healthy_sweets.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+domain: "cesnietor.github.io"
+baseurl: "/healthy_sweets.github.io" # the subpath of your site
+url: "https://cesnietor.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_profile_id: Healthy-Sweets-102783582372121
 facebook_profile_name: Healthy Sweets
 whatsapp_number: 555-123-123
