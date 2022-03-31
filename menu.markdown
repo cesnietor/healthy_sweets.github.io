@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Sweets
-permalink: /:path/sweets/
 ---
 
 #### Arma tu orden de seis cupcakes con cualquiera de las siguientes opciones:
